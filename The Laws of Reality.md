@@ -17,6 +17,6 @@ How different can these regions be? That depends on the author.
 	It has 8 hexagons and 6 Squares as its faces  
 	It has 36 edges and 24 vertices and it’s Archimedean, meaning highly symmetric  
 	These characteristics allow the truncated octahedron to be tiled with each other leaving no empty spaces. The gif below is what a cluster of these regions would look like:  
-	![200](./Asset/image%201.gif)  
+	<img src="Asset/image 1.gif" alt=”” width="200">  
 	All of this is to show that there’s a threshold between regions separating them, signifying that you have left your region and are about to enter another.  
 	
