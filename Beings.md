@@ -22,7 +22,7 @@ aliases:
   - Aspects
   - aspects
 ---
- > Beings are individuals capable of interacting with and [[experience|experience]] the universe. They encompass all forms of life and consciousness — organic, inorganic, or incorporeal. Every being is composed of three interconnected aspects: the Soul, Mind, and Vessel. These three are connected together through [[Mana|mana]], the “resource” that enables their coexistence and function.
+ > Beings are individuals capable of interacting with and [[./Experience|experience]] the universe. They encompass all forms of life and consciousness — organic, inorganic, or incorporeal. Every being is composed of three interconnected aspects: the Soul, Mind, and Vessel. These three are connected together through [[./Mana|mana]], the “resource” that enables their coexistence and function.
 ---
 # The Three Aspects of a Being
 - ## Vessel
@@ -39,7 +39,7 @@ aliases:
 	
 	For instance, a tree—though long-lived—has a mind no more developed than that of an insect.
 	
-	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [[Transience|transience]] state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow — one devoid of the prior [[Memory|memories]] of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.
+	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [[./Transience|transience]] state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow — one devoid of the prior [[./Memory|memories]] of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.
 	
 	The mind is the primary tool for the use of magic as the mind is able to manipulate mana.
 - ## Soul
@@ -47,7 +47,7 @@ aliases:
 	
 	It gathers experience distributed from the Mind, that experience contributes to the growth and value of the Soul. If the Soul carries enough value, it is capable of generating mana which it then stores in itself. How much mana the Soul can store and how much mana the Soul can generate depends on the value of the Soul.
 	
-	Without the mind and a vessel to emerge a new mind, a soul enters the transience state — essentially, the [[Transience|afterlife]].
+	Without the mind and a vessel to emerge a new mind, a soul enters the transience state — essentially, the [[./Transience|afterlife]].
 	
 	In this state, the soul cannot capture new experiences and is unaffected by most physical laws of the universe, except those governing mana.
 	
@@ -79,7 +79,7 @@ The vessel captures experiences with its many faculties, these experience are th
 	→ That fragment will result in the emergence of the soul. 
 	It looks something like this:
 	Complexity → Vessel and Mind → Experience → Soul → The Being
-	→ All three aspects are connected by [[Mana|mana]]
+	→ All three aspects are connected by [[./Mana|mana]]
 ---
 # Examples of Beings
 These examples are categorized by their rate of gaining experience relative to their lifetime.
