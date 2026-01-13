@@ -13,12 +13,10 @@ How different can these regions be? That depends on the author.
 - ## The Shape of Each Region and The Shape of The Universe  
 	A region in the universe takes on the geometric shape called a truncated octahedron, see image below:  
 	<img src="assets/image.gif" alt=”” width="200">  
-	![200](./assets/image.gif)  
 	It is an octahedron with its corners cut off  
 	It has 8 hexagons and 6 Squares as its faces  
 	It has 36 edges and 24 vertices and it’s Archimedean, meaning highly symmetric  
 	These characteristics allow the truncated octahedron to be tiled with each other leaving no empty spaces. The gif below is what a cluster of these regions would look like:  
 	<img src="assets/image 1.gif" alt=”” width="200">  
-	![200](./assets/image%201.gif)  
 	All of this is to show that there’s a threshold between regions separating them, signifying that you have left your region and are about to enter another.  
 	
