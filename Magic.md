@@ -18,7 +18,7 @@ aliases:
   - Enchanted
   - enchanted
 ---
-> This topic will explain how the [[Mana|mana triad]] and created matter interact with each other.
+> This topic will explain how the [[./Mana|mana triad]] and created matter interact with each other.
 # Interactions Between The Mana Triad
 - ## Raw Mana Interaction
 	- Mana + Phana = More Phana, more luminosity or/and more heat.
