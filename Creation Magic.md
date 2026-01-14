@@ -1,0 +1,34 @@
+---
+share: true
+aliases:
+  - Creation
+  - creation
+  - Create
+  - create
+  - Creating
+  - creating
+  - Created
+  - created
+  - Creation magic
+  - creation magic
+  - Heal
+  - heal
+  - Healing
+  - healing
+  - Healed
+  - healed
+  - Healing magic
+  - healing magic
+  - Archaic healing magic
+  - archaic healing magic
+  - Restoration
+  - restoration
+  - Restore
+  - restore
+  - Restoring
+  - restoring
+  - Restored
+  - restored
+  - Restoration magic
+  - restoration magic
+---
