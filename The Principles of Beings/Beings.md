@@ -28,24 +28,23 @@ aliases:
   - Complexities
   - complexities
 ---
-> Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural life, artificial life, and incorporeal life. Interacting for a being means capturing [experiences](./Experience.md). Beings are made up of three aspects, these three aspects are named the vessel, the mind, and the soul. These aspects are connected with [mana](../Magic/Mana.md).  
----  
+Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural life, artificial life, and incorporeal life. Interacting for a being means capturing [experiences](./Experience.md). Beings are made up of three aspects, these three aspects are named the vessel, the mind, and the soul. These aspects are bound by [mana](../Magic/Mana.md).  
 # The Three Aspects of a Being  
 - ## Vessel  
-	The **Vessel** is the body of a being — its means of interaction with the universe and the mind directly resides in the vessel.  
+	The **Vessel** is the body of a being—its means of interaction with the universe and the mind directly resides in the vessel.  
 	To interact is to capture experience, and the vessel provides the faculties for this: sight, hearing, touch, and other sensory or energetic forms of perception.  
 	  
 	- Natural vessels include animals, plants, insects, and fungi.  
-	- Artificial vessels are constructed forms — created rather than born — such as machines, androids, constructs, or synthetic bodies.  
+	- Artificial vessels are constructed forms—created rather than born—such as machines, androids, constructs, or synthetic bodies.  
 	- Incorporeal vessels include bodies of pure energy, or mana vessels.  
 - ## Mind  
-	The **Mind** is the awareness and consciousness of a being — the medium through which experiences are interpreted and conveyed to the soul.  
+	The **Mind** is the awareness and consciousness of a being—the medium through which experiences are interpreted and conveyed to the soul.  
 	  
-	It forms as the vessel begins to attain cognition. The complexity of a vessel’s cognition determines the depth and significance of its mind.  
+	The Mind forms as the vessel develops sufficient cognitive structure—the mechanisms capable of processing stimuli, forming patterns, and sustaining internal representation.  
+  
+	For instance, a tree possesses basic cognition—reactive processes to light, water, and injury—yet this is insufficient to produce a true Mind comparable to that of higher animals.  
 	  
-	For instance, a tree—though long-lived—has a mind no more developed than that of an insect.  
-	  
-	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [transience](./Transience.md) state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow — one devoid of the prior [memories](./Memory.md) of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.  
+	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [transience](./Transience.md) state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow—one devoid of the prior [memories](./Memory.md) of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.  
 	  
 	The mind is the primary tool for the use of magic ([armana](../Magic/Mana.md) being the second) as the mind is able to manipulate mana.  
 - ## Soul  
@@ -69,9 +68,9 @@ aliases:
 	Minds are formed the instant a vessel provides the faculties for experiencing.  
 	The cognitive complexity of a mind is determined by a vessel’s cognitive capability, aside from basic senses, if a vessel is capable of higher thought such as awareness, social intelligence, general intelligence, etc.; it is capable of developing a higher mind.  
   
-	It’s simply intuitive. When a human fetus is developing in the womb, it is yet to develop a mind but is however a vessel based on its biological complexity. It’s going to take roughly 4 years before the human starts to become aware of their being, that is when the mind grows at a significant pace. The emergence of both of these aspects differ from many types of beings. Artificial general intelligences (AGIs)— having a highly complex structure and cognition—are capable of possessing a mind higher than any biological life-form at a considerably young age.  
+	It’s simply intuitive. When a human fetus is developing in the womb, it is yet to develop a mind but is however a vessel based on its biological complexity. It’s going to take roughly 4 years before the human starts to become aware of their being, that is when the mind grows at a significant pace. The emergence of both of these aspects differ from many types of beings. Artificial general intelligences (AGIs)—having a highly complex structure and cognition—are capable of possessing a mind higher than any biological life-form at a considerably young age.  
 - ## The Culmination of Experiences  
-The emergence of the soul is a bit different from the previous aspects as it’s made up of experiences. The vessel and mind — as previously mentioned — contribute to the development of the soul.  
+The emergence of the soul is a bit different from the previous aspects as it’s made up of experiences. The vessel and mind—as previously mentioned—contribute to the development of the soul.  
   
 The vessel captures experiences with its many faculties, these experience are then interpreted by the mind and then made to develop a soul. Once a soul is established, it begins generating mana so that the other two aspects don’t expire. For most beings, this process is done in quick succession.  
   

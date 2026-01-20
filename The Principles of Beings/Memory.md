@@ -5,6 +5,12 @@ aliases:
   - Memories
   - memories
 ---
-> Memory, within a [vessel](./Beings.md), is the capacity to store and recall information. This capacity is likewise present within a [being’s](./Beings.md) [mind](./Beings.md). The loss of the vessel entails the loss of the mind, and the loss of either the mind or the vessel entails the loss of a being’s memory.  
+Memory is There’s two distinct types of memories, the [vessel](./Beings.md)’s memory and the [mind](./Beings.md)’s memory.  
   
-There is a stark difference between memory inside a vessel and memory inside a being’s mind. Memory inside a vessel is just information, whether that be connections between synapses or data in a hardware. Memory inside a being’s mind is (what I define) a being’s identity, the mind’s purpose is to interpret [experience](./Experience.md) to the [soul](./Beings.md) but <span style="text-decoration: underline;">as a byproduct it forms information</span> in the mind which can be lost when the mind is destroyed. There is a way to restore a being’s identity and that would be [resurrection magic](../Magic/Resurrection%20Magic.md).
+The vessel’s memory is the capacity to store and recall information. connecting synapses and data in a hardware are information inside a vessel’s cognition.  
+  
+The mind’s memory is what I define as a [being](./Beings.md)’s identity. **During the process of interpreting [experiences](./Experience.md) the mind will form memories as a byproduct**.  
+  
+The vessel’s memories are lost when it’s destroyed and the same happens to the mind’s memories. Recovering a being’s mind and its memories is possible due to the existence of [resurrection magic](../Magic/Resurrection%20Magic.md).  
+  
+<!--Why was that so complicated to initially write? -->

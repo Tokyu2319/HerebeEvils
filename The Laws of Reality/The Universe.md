@@ -1,14 +1,15 @@
 ---
 share: true
 ---
-# Finite in Infinity  
-The universe is infinite but possibilities are finite. When the universe is infinite and possibilities are limited, the universe is bound to repeat those possibilities. Meaning if you venture out into the edges of the universe, you’re likely to find a person whose being is an almost exact version of you. These are regions of the universe where they repeat themselves but with different causalities.  
-# This is a Coarse-Grained Universe  
-A coarse-grained universe is what I define a universe who only allows the macro scale of significances. As stated before, the universe is made up of different regions, however, when you travel to a neighboring region you wouldn’t see not even a micro difference. A single particle decays a nanosecond earlier in this region? No, this region would be meaningfully different. A version of you might’ve made a choice where they became someone different than what you would’ve chose, and the same goes for everyone in the neighboring region.  
+# Infinity and Its Possibilities  
+The universe stretches infinitely, yet the possibilities for arranging matter are limited. If you travel far enough, those arrangements must eventually repeat. You would encounter another version of yourself, an alternate history of your world, or something entirely unrecognizable—each a different variations of the same finite possibilities.  
   
-Yes the universe is different and we cannot deny that they’re regions where micro differences exist yet how come the region next to yours is vastly different? The universe would treat these micro-scale differences to be of the same region. That means every possibility containing a micro-scale significance is compiled into one region. A merging of sorts.  
+These are regions of the universe, and they grow more distinct as you move from one to the next. In a neighboring region you might find yourself as the president of a country; farther on, you are a soldier in a war. Skip enough regions and you are no longer “you” at all, but a different identity shaped by different circumstances. To that person, you are the strange variation—because **there is no original region**.  
   
-How different can these regions be? That depends on the author.  
+One might expect infinity to produce near-identical worlds, separated only by a single grain of sand. That is not the nature of this universe. Trivial differences collapse together, forming coherent regions rather than endless noise.  
+# Coarse-Grained Universe  
+The universe distinguishes what is significant and disregards what is not. Meaningful differences remain separate; insignificant variations are merged within the same region. Regions do not blend at random but only with those that share the same essential character.  
+  
 - ## The Shape of Each Region and The Shape of The Universe  
 	A region in the universe takes on the geometric shape called a truncated octahedron, see image below:  
 	<img src="../assets/image.gif" alt=”” width="200">  
@@ -19,4 +20,4 @@ How different can these regions be? That depends on the author.
 	<img src="../assets/image 1.gif" alt=”” width="200">  
 	All of this is to show that there’s a threshold between regions separating them, signifying that you have left your region and are about to enter another.  
 # The Fabric of Spacetime  
-Though it is invisible it is stated that the fabric of spacetime are visualized as layers upon layers of two dimensional grids of which they can deform. The deformation of spacetime allows the use of [portal magic](../Magic/Portal%20Magic.md).
+The fabric of spacetime is a geometric 4-dimensional grid (wherein time is the fourth dimension) that curves and deforms around massive objects. Such deformation allows the use of [portal](../Magic/Portal%20Magic.md) magic.
