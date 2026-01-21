@@ -5,7 +5,7 @@ aliases:
   - Memories
   - memories
 ---
-Memory is There’s two distinct types of memories, the [vessel](./Beings.md)’s memory and the [mind](./Beings.md)’s memory.  
+There’s two distinct types of memories, the [vessel](./Beings.md)’s memory and the [mind](./Beings.md)’s memory.  
   
 The vessel’s memory is the capacity to store and recall information. connecting synapses and data in a hardware are information inside a vessel’s cognition.  
   
