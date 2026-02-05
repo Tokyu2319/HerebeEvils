@@ -36,10 +36,15 @@ This topic will explain how the [mana triad](./Mana.md) and created matter inter
 - ## Lightning  
 	A mage stretches manon over the field of influence, however, this can easily be disrupted by opposing mages. Once the a field of manon has been established, the mage is able to move electrons within that field using manon in order to create a separation in charge. The mage then creates the lightning’s trajectory using a path of manon, the mage is now able to safely create a discharge resulting in lightning.  
 - ## Magelight  
-	A ball of phani supported by manon.  
-- ## Arcana Slave  
-	From Project Moon’s Library of Ruina, Arcana Slave could be interpreted as a mass of high energy phani focused down with manon.  
+	A ball of phana supported by manon.  
 - ## Telekinesis  
 	The general use of manon.  
 - ## Ascendant Telekinesis  
-	Telekinesis with the awareness that manon can manipulate microscopically and macroscopically.
+	Telekinesis with the awareness that manon can manipulate microscopically and macroscopically.  
+- ## Rupture  
+	Direct use of manon to forcefully tear a person or object. Ineffective at long range due to easy disruption.  
+# Interpreting Magics From Other Medias  
+- ## Arcana Slave  
+	From Project Moon’s Library of Ruina, Arcana Slave could be interpreted as a beam of high energy phana focused down with manon.  
+- ## Zoltraak  
+	From Kanehito Yamada’s ｢山田 鐘人｣ Frieren: Beyond Journey’s End, Zoltraak is a simple spell which could be interpreted as high energy phana guided by manon to be used as an offensive attack.

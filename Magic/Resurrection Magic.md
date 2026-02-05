@@ -12,6 +12,7 @@ aliases:
   - Resurrection magic
   - resurrection magic
 ---
+==Might need rework==  
 Resurrection can happen naturally or artificially, I’ll be explaining what that means in this topic  
   
 Resurrection happens when a donor [transient](../The%20Principles%20of%20Beings/Transience.md) soul is used on a another transient soul in which case the transient soul will have their [mind](../The%20Principles%20of%20Beings/Beings.md) and with it—their [memories](../The%20Principles%20of%20Beings/Memory.md) back while the donor soul will be **destroyed**. The value of the transient soul will determine how many donor souls it will take to resurrect them.  
