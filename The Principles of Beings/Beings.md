@@ -37,6 +37,8 @@ Beings are fundamental entities which are capable of interacting with the univer
 	- Natural vessels include animals, plants, insects, and fungi.  
 	- Artificial vessels are constructed forms—created rather than born—such as machines, androids, constructs, or synthetic bodies.  
 	- Incorporeal vessels include bodies of pure energy, or mana vessels.  
+	  
+	There are two layers in a vessel and that is the structural layer and the cognitive layer. The structural layer determines the vessel range of interaction while the cognitive layer determines the mechanisms that can support he **mind**.  
 - ## Mind  
 	The **Mind** is the awareness and consciousness of a being—the medium through which experiences are interpreted and conveyed to the soul.  
 	  
@@ -46,11 +48,13 @@ Beings are fundamental entities which are capable of interacting with the univer
 	  
 	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [transience](./Transience.md) state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow—one devoid of the prior [memories](./Memory.md) of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.  
 	  
-	The mind is the primary tool for the use of magic ([armana](../Magic/Mana.md) being the second) as the mind is able to manipulate mana.  
+	The mind is the primary tool for the use of magic ([armana](../Magic/Mana.md) being the second) as the mind is able to manipulate and convert mana. The same way the mind manipulates mana, mana can manipulate the mind including its processes and memories, see [Illusion Magic](../Magic/Illusion%20Magic.md).  
+  
+	A state of mind such as wrath, despair, or ecstasy can influence the rate of mana regeneration.  
 - ## Soul  
-	The **Soul** is the culmination of experience gathered by the mind and the truest aspect of a being.  
+	The **Soul** is the culmination of experience gathered by the mind and **the truest aspect of a being**.  
 	  
-	It gathers experience distributed from the Mind, that experience contributes to the growth and value of the Soul. If the Soul carries enough value, it is capable of generating mana which it then stores in itself. How much mana the Soul can store and how much mana the Soul can generate depends on the value of the Soul.  
+	It gathers experience distributed from the Mind, that experience contributes to the growth and value of the Soul. If the Soul carries enough value—which is how much experience the soul has—it is capable of generating mana, which it then stores in itself. How much mana the Soul can store and how much mana the Soul can generate depends on the value of the Soul. Soul value is denoted as [SV](./Experience.md).  
 	  
 	The soul enters [afterlife](./Transience.md) or the transience state whenever the mind and the vessel aren’t provided  
 	  
@@ -112,4 +116,26 @@ These examples are categorized by their rate of gaining experience relative to t
 	- Immortal Beings  
 	- Artificial Beings around a significant level  
 	- Incorporeal Beings  
-	- Reincarnated Beings
+	- Reincarnated Beings  
+---  
+# Summary  
+- Beings  
+1. The fundamental entities of the universe.  
+2. The core of magic.  
+3. Made up of three aspects bound by mana.  
+- Vessel  
+1. The body of a being.  
+2. Allows sensory input for the mind and cognitive structure determines how complex the mind is.  
+- Mind  
+1. The awareness of a being.  
+2. Interprets experience from the vessel to the soul.  
+3. Can manipulate mana and can be manipulated by mana.  
+- Soul  
+1. The culmination of experience and the truest aspect of a being.  
+2. Generates and stores mana.  
+3. Indestructible unless used for [resurrection magic](../Magic/Resurrection%20Magic.md).  
+- Emergence  
+1. Complexity first,  
+2. Vessel second,  
+3. Mind third, and  
+4. Soul last all in quick succession
