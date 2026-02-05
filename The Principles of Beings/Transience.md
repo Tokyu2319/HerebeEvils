@@ -7,6 +7,7 @@ aliases:
   - Afterlife
   - afterlife
 ---
+==Needs rework==  
 A state where a [soul](./Beings.md) is without [mind](./Beings.md) and [vessel](./Beings.md). In this state the soul cannot gain anymore experience and if forcefully put into a new vessel will create a new mind (identity) with no memories belonging to the previous [being](./Beings.md). Souls normally enter this state through the destruction of their vessel which follows the destruction of the mind, you will refer this phenomenon as death.  
   
 # What Happens When You Die?  
@@ -14,6 +15,6 @@ Your soul will leave your dead vessel and the object of your residence (earth in
   
 Basically, nothing happens to you, not for a long time,  of course there’d be some external force acting upon you but for most part you spend the entirety of your afterlife in the vastness of space. You won’t be there to see it of course, there’s no vessel allowing you [experience](./Experience.md) the afterlife, it’ll be like blink to the end of the universe. One moment you swerved your vehicle to steer clear of an unfortunate one and the next your at the literal end.  
   
-If whenever a being feels like it, they can shine phani on a populous planet to see its death rate. What the being sees is a trail of souls behind the planet.  
+If whenever a being feels like it, they can shine phana on a populous planet to see its death rate. What the being sees is a trail of souls behind the planet.  
   
 If you’re thinking about finding someone’s soul, best of luck—the solar system has already travelled trillions of kilometers as you read this.
