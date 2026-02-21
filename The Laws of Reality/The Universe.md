@@ -2,7 +2,7 @@
 share: true
 ---
 # I Did It: I Managed to Put My vision into Words  
-The universe is infinite but organized into **regions** — large-scale equivalence clusters of realities. Within a region, insignificant micro-variations exist but are considered manifestations of a single macro-history. When divergence becomes narratively or structurally meaningful, a new region forms rather than a new variation within the same region.  
+The universe is infinite and organized into **regions** — large-scale equivalence clusters of realities. Within a region, insignificant micro-variations exist but are considered manifestations of a single macro-history. When divergence becomes narratively or structurally meaningful, a new region forms rather than a new variation within the same region.  
   
 Divergence between regions is gradual rather than random. regions closest to one’s home share nearly identical histories, people, and structures. As one travels farther through the infinite universe, these differences accumulate, and regions become increasingly unfamiliar in culture, events, and societal development — while still obeying the same fundamental laws of reality.  
 - ## The *Conceptual* Shape of Each Region and The Shape of The Universe  
