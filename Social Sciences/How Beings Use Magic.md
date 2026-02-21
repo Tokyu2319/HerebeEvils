@@ -1,0 +1,15 @@
+---
+share: true
+---
+To use magic a [being](../The%20Principles%20of%20Beings/Beings.md) must need [experience](../The%20Principles%20of%20Beings/Experience.md) first, control, and knowledge. Experience is self-explanatory, it determines how much mana you have and how much mana you can regenerate and control is needed for how precise your magic can be. So the only thing in need of an explanation is knowledge.  
+# Knowledge  
+Not everything in the universe is known, and that includes magic. Science and magic are primarily advanced through experimentation and trial-and-error. Knowledge determines what a being is capable of attempting safely and how accurately they can construct a spell’s structure.  
+  
+This is most apparent in [creation magic](../Magic/Creation%20Magic.md). Creation magic is highly costly and requires understanding from multiple disciplines such as biology, chemistry, physics, material science, many more. Without proper knowledge, creation may become unstable, inefficient, or catastrophically incorrect.  
+  
+For example:  
+- A being attempting to create living tissue without biological knowledge may produce malformed or nonfunctional matter.  
+- Poor chemical understanding may result in toxic compounds or volatile reactions.  
+- Lack of physical knowledge can cause structural collapse or uncontrolled energy release.  
+  
+Because of this, some characters treat science and magic as inseparable fields. Magical spells are often the result of long experimentation rather than sudden discovery.

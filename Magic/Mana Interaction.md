@@ -32,9 +32,9 @@ This topic will explain how the [mana triad](./Mana.md) and created matter inter
 ---  
 # Examples of Spells (Excluding The Use of [Enchantments](./Enchantments.md))  
 - ## Flamethrower  
-	A mage creates flammable gasses from their palms in which they control their movement using manon, they then ignite the gasses using a burst of hot phana. They continually create gasses to fuel the flame until their enemy is burned.  
+	The creation of flammable gasses from a medium which they control the trajectory using manon, phana is used as an ignition. The continuous creation of fuel is needed to keep the flame burning.  
 - ## Lightning  
-	A mage stretches manon over the field of influence, however, this can easily be disrupted by opposing mages. Once the a field of manon has been established, the mage is able to move electrons within that field using manon in order to create a separation in charge. The mage then creates the lightning’s trajectory using a path of manon, the mage is now able to safely create a discharge resulting in lightning.  
+	Cast a field of manon to establish a field of influence (better if you’re in a humid or dusty place). This manon field is easily disruptible but it allows the subtle use of  manon (micro-telekinesis). In this field you can manipulate positive and negative charges of objects inside the field to create a charge imbalance while also having a chain of manon as the conductive path.  
 - ## Magelight  
 	A ball of phana supported by manon.  
 - ## Telekinesis  
@@ -47,4 +47,4 @@ This topic will explain how the [mana triad](./Mana.md) and created matter inter
 - ## Arcana Slave  
 	From Project Moon’s Library of Ruina, Arcana Slave could be interpreted as a beam of high energy phana focused down with manon.  
 - ## Zoltraak  
-	From Kanehito Yamada’s ｢山田 鐘人｣ Frieren: Beyond Journey’s End, Zoltraak is a simple spell which could be interpreted as high energy phana guided by manon to be used as an offensive attack.
+	From Kanehito Yamada’s ｢山田 鐘人｣ Frieren: Beyond Journey’s End, Zoltraak is a simple spell which could be interpreted as high energy phana guided and curved by manon to be used as an offensive attack.
