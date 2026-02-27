@@ -8,9 +8,12 @@ aliases:
   - Soul bind magic
   - soul bind magic
 ---
-Soul bind magic is a spell where the [soul](../The%20Principles%20of%20Beings/Beings.md) and [mind](../The%20Principles%20of%20Beings/Beings.md) is bound to an object using manon and mana. Souls are already bound to their vessels as mana is already always in the being. In the case of a soul that’s about to enter [afterlife](../The%20Principles%20of%20Beings/Transience.md), this type of magic could save their life.   
+Soul bind magic is a spell where a [soul](../The%20Principles%20of%20Beings/Beings.md), whether they still have their [mind](../The%20Principles%20of%20Beings/Beings.md) or not, is bound to an object or a vessel using [manon](./Mana.md) and in the case where those two mediums are unavailable [armana](./Mana.md) is used.  
   
-# How Does This Work?  
-Soul bind magic works by first creating an armana vessel for the soul and mind to be bound to, if the armana structure replicates that of the being’s cognition they would be able to be aware of their predicament and further protect their mind from the lack of an appropriate vessel. Then manon is used to move both the soul and mind to the vessel and by using armana as a body, the soul and mind are safely contained in the armana vessel. Armana vessels could be substituted for other objects or vessels, the latter being easier to work around with.  
+If you were to put someone into a simple object, their mind will persist but won’t process because of the lack of senses. If, however, they were put inside an empty vessel with an equal level of cognitive function, then they’ll have complete awareness inside that vessel.  
+  
+If the vessel **is empty** and has a lower cognitive function than the subject, the subject will undergo regression and you may interpret that as you like. For the subject’s [memories](../The%20Principles%20of%20Beings/Memory.md), the mind’s memories will try to fill up the empty vessel but much like hardware it undergoes compression, the identity of the subject (the mind’s memory) is completely present. If the mind **is empty** and has a higher cognitive function than the subject, the subject will simply have more to do. It’s like upgrading from a computer to a supercomputer.  
+  
+If the vessel is occupied or is unable to sustain a mind, the subject will have their mind slowly expire.  
   
 Use cases of soul bind magic is self-preservation during life threatening situations, prisons, [teleportation magic](../Teleportation%20Magic.md), or changing one’s vessel for a better one.

@@ -4,6 +4,8 @@ aliases:
   - memory
   - Memories
   - memories
+  - Identity
+  - identity
 ---
 There’s two distinct types of memories, the [vessel](./Beings.md)’s memory and the [mind](./Beings.md)’s memory.  
   

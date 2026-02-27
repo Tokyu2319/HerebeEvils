@@ -12,12 +12,8 @@ aliases:
   - Resurrection magic
   - resurrection magic
 ---
-==Might need rework==  
-Resurrection can happen naturally or artificially, I’ll be explaining what that means in this topic  
+The use of a donor [soul](../The%20Principles%20of%20Beings/Beings.md) to resurrect another soul to restore its [identity](../The%20Principles%20of%20Beings/Memory.md). When resurrection happens the donor soul is sacrificed and **destroyed** in order to restore the [mind](../The%20Principles%20of%20Beings/Beings.md) of the recipient soul. Recipient souls needs an equal amount of donated soul value for their resurrection, the sacrifice can be multiple donor souls or one equal donor soul.  
   
-Resurrection happens when a donor [transient](../The%20Principles%20of%20Beings/Transience.md) soul is used on a another transient soul in which case the transient soul will have their [mind](../The%20Principles%20of%20Beings/Beings.md) and with it—their [memories](../The%20Principles%20of%20Beings/Memory.md) back while the donor soul will be **destroyed**. The value of the transient soul will determine how many donor souls it will take to resurrect them.  
+If the recipient soul receives less than their required soul value their resurrection will become degraded, this can be fixed by providing the necessary amount of donor souls.  
   
-# Artificial Resurrection  
-Artificial resurrection happens when a [being](../The%20Principles%20of%20Beings/Beings.md) forces a donor soul to be used on a another soul or themselves, resurecting someone is taboo in some cultures and an irredeemable crime for the latter.  
-# Natural Resurrection  
-Natural resurrection happens when transient souls collide with each other, simultaneously making them attain awareness therefore instinctually making themselves an armana vessel. It is likely that the donor soul won’t activate the resurrection, however. It does happen nonetheless. The chances, though, do get higher when the universe approaches its [end](The%20End.md).
+Resurrection can happen naturally but the odds are low and will only become prevalent during the end of the universe.
