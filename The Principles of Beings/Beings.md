@@ -34,9 +34,9 @@ Beings are fundamental entities which are capable of interacting with the univer
 The **Vessel** is the body of a being—its means of interaction with the universe and the mind directly resides in the vessel.  
 To interact is to capture experience, and the vessel provides the faculties for this: sight, hearing, touch, and other forms of perception. The following are the many forms a vessel can take:  
   
-Natural vessels includes animals, plants, insects, and fungi.  
-Artificial vessels are constructed forms—created rather than born—such as machines, androids, constructs, or synthetic bodies.  
-Incorporeal vessels include bodies of pure energy, or mana vessels.  
+- Natural vessels includes animals, plants, insects, and fungi.  
+- Artificial vessels are constructed forms—created rather than born—such as machines, androids, constructs, or synthetic bodies.  
+- Incorporeal vessels include bodies of pure energy, or mana vessels.  
   
 There are two layers in a vessel, the structural layer and the cognitive layer. The structural layer determines the vessel’s range of interaction while the cognitive layer determines the mechanisms that can support the **mind**, the cognitive layer could also be interpreted as the hardware of a vessel.  
 ## Mind  
