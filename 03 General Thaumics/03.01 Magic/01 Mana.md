@@ -78,4 +78,4 @@ Energy is first created when trying to create matter, if you continue to try to 
   
 ~~Casting~~ Creating matter comes directly from your vessel either you want it inside or outside but then there’s a problem, how do I create solid gold instead of gold flakes out of my skin? Mana share is needed for solid matter to be created, it’s a careful process of simultaneously creating matter and sharing mana with the created matter so that the created matter becomes an extension of your vessel. This is only a problem for the creation of solid matter as liquids and gasses have no fixed structure.  
   
-[^1]: [Hohenheim](https://limbuscompany.wiki.gg/wiki/Hohenheim)  
+[^1]: [Hohenheim (Limbus Company)](https://limbuscompany.wiki.gg/wiki/Hohenheim)  
