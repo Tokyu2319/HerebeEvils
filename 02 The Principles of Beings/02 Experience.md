@@ -31,9 +31,5 @@ This topic will show a being’s soul growth as well as examples of different so
 	- Bound AI: 4.000 SV, they’re stuck  
 	- Deities and Cosmic Intelligences: 20.000 SV  
   
-.  
-.  
-.  
-Footnotes  
 [^1]: [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS)  
 [^2]: [Wheatley](https://en.wikipedia.org/wiki/Wheatley_(Portal))  
