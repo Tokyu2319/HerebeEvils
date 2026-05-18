@@ -5,66 +5,33 @@ aliases:
   - Beings
   - being
   - beings
-  - Being’s
-  - being’s
-  - Soul
-  - soul
-  - Souls
-  - Souls
-  - Mind
-  - mind
-  - Minds
-  - minds
-  - Vessel
-  - vessel
-  - vessels
-  - Vessels
-  - vessels
-  - Aspects
-  - aspects
-  - Complex
-  - complex
-  - Complexity
-  - complexity
-  - Complexities
-  - complexities
-  - simple being
-  - simple beings
-  - complex being
-  - complex beings
-  - ascendant being
-  - ascendant beings
-  - 
 ---
-Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural life, artificial life, and incorporeal life. Interacting for a being means capturing [experiences](./02%20Experience.md). Beings are made up of **three aspects**, these three aspects are named the vessel, the mind, and the soul. These aspects are bound by [mana](../03%20General%20Thaumics/03.01%20Magic/01%20Mana.md).  
+Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural and artificial life.  
+  
+Every being consists of three Aspects which are named The [Vessel](./01.01%20Vessel.md), The [Mind](./01.02%20Mind.md),and The [Soul](./01.03%20Soul.md). These Aspects are bound together by [Mana](../03%20General%20Thaumics/03.01%20Magic/01%20Mana.md)  
+  
+A being emerges based on how [complex](./01.04%20Complexity.md) its Vessel is.  
+  
+Interacting for a being means to capture [Experiences](./02%20Experience.md) in order to **grow** as a being.  
+  
+---  
+# Examples of Beings From Various Media  
+Ichikawa Kyoutarou【市川 京太郎】 from [僕の心のヤバイやつ](https://en.wikipedia.org/wiki/The_Dangers_in_My_Heart)  
+Rae Taylor【レイ＝テイラー】from [私の推しは悪役令嬢。](https://en.wikipedia.org/wiki/I%27m_in_Love_with_the_Villainess)  
+Ishigami Senkuu【石神 千空】from [Dr.STONE](https://en.wikipedia.org/wiki/Dr._Stone)  
+Irina Luminesk from [Irina: The Vampire Cosmonaut](https://en.wikipedia.org/wiki/Irina:_The_Vampire_Cosmonaut)  
+Santa Claus | Kazushige Sanda【三田 一重】from [Sanda](https://en.wikipedia.org/wiki/Sanda_(manga))  
+Yosuke Shibazaki【嶋㟢 陽介】from [Uncle from Another World](https://en.wikipedia.org/wiki/Uncle_from_Another_World)  
+Alucard from [Hellsing](https://en.wikipedia.org/wiki/Hellsing)  
+Rhyno from [Sentenced to Be a Hero](https://en.wikipedia.org/wiki/Sentenced_to_Be_a_Hero)  
+GLaDOS from [Portal 2](https://en.wikipedia.org/wiki/GLaDOS)  
+Kanto from [Akudama Drive](https://en.wikipedia.org/wiki/Akudama_Drive)  
+Clevatess from [Clevatess](https://en.wikipedia.org/wiki/Clevatess)  
+Cid Kagenou from [The Eminence in Shadow](https://en.wikipedia.org/wiki/The_Eminence_in_Shadow)  
+Kratos from the [God of War](https://en.wikipedia.org/wiki/God_of_War_(franchise)) franchise  
+Carmen from [Lobotomy Corporation](https://en.wikipedia.org/wiki/Lobotomy_Corporation), [Library of Ruina](https://en.wikipedia.org/wiki/Library_of_Ruina), [Limbus Company](https://en.wikipedia.org/wiki/Limbus_Company)  
+  
 # The Three Aspects of a Being  
-## Vessel  
-The **Vessel** is the body of a being—its means of interaction with the universe and the mind directly resides in the vessel.  
-To interact is to capture experience, and the vessel provides the faculties for this: sight, hearing, touch, and other forms of perception. The following are the many forms a vessel can take:  
-  
-- Natural vessels includes animals, plants, insects, and fungi.  
-- Artificial vessels are constructed forms—created rather than born—such as machines, androids, constructs, or synthetic bodies.  
-- Incorporeal vessels include bodies of pure energy, or mana vessels.  
-  
-There are two layers in a vessel, the structural layer and the cognitive layer. The structural layer determines the vessel’s range of interaction while the cognitive layer determines the mechanisms that can support the **mind**, the cognitive layer could also be interpreted as the hardware of a vessel.  
-## Mind  
-The **Mind** is the awareness and consciousness of a being and the medium through which experiences are interpreted and conveyed to the soul.  
-  
-The Mind forms as the vessel develops sufficient cognitive structure—the mechanisms capable of processing stimuli, forming patterns, and sustaining internal representation.  
-  
-For instance, a tree possesses basic cognition—reactive processes to light, water, and injury — yet this is insufficient to produce a true Mind comparable to that of higher animals.  
-  
-The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [transience](./04%20Transience.md) state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow—one devoid of the prior [memories](./03%20Memory.md) of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.  
-  
-The mind is the primary tool for the use of magic ([armana](../03%20General%20Thaumics/03.01%20Magic/01%20Mana.md) being the second) as the mind is able to manipulate and convert mana. The same way the mind manipulates mana, mana can manipulate the mind including its processes and memories, see [Illusion Magic](../03%20General%20Thaumics/03.04%20Thaumic%20Collection/Illusion%20Magic.md).  
-## Soul  
-The **Soul** is the culmination of experiences gathered by the mind and it is **the truest aspect of a being**.  
-	  
-It gathers experience distributed from the Mind, that experience contributes to the growth and value of the Soul. If the Soul carries enough value it becomes capable of generating mana, which it then stores in itself. How much mana the Soul can store and how much mana the Soul can generate depends on the value of the Soul. Soul value is denoted as [SV](./02%20Experience.md).  
-	  
-The soul enters [afterlife](./04%20Transience.md) or the transience state whenever the mind and the vessel aren’t provided.  
-	  
-In this state, the soul cannot capture new experiences and is unaffected by most physical laws of the universe, except those governing mana. Souls are **indestructible**, unless proven otherwise.  
   
 ---  
 # **The Emergence of Beings**  
