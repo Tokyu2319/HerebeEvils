@@ -42,4 +42,4 @@ Limitations:
 - Acceleration is inherently less versatile than rewind, as it cannot reconstruct prior states and is limited to advancing existing processes, often yielding unpredictable or undesirable outcomes.  
   
 Notability:  
-I had to study the physics of time and my own interpretation of time to make this work. Wth.
+Depersonalization-Derealization Disorder is a dissociative disorder where a person feels disconnected from themselves, their surroundings, or both.<!--I had to study the physics of time and my own interpretation of time to make this work, wth-->
