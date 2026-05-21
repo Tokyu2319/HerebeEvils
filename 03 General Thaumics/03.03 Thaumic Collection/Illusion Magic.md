@@ -3,14 +3,16 @@ share: true
 aliases:
   - Illusion
   - illusion
-  - Illusion magig
+  - Illusion magic
   - illusian magic
 ---
   
-Illusion magic is the use of [manon](../03.01%20Magic/01%20Thaumic%20Fundamentals/01.01%20Mana.md) that targets the [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) by altering how it receives, filters, or interprets input from the [vessel](../../02%20The%20Principles%20of%20Beings/01%20Beings.md). Illusion magic affects all beings with a mind, regardless of whether their cognition is biological, artificial, or mana-based. An incredible amount of control is needed to effectively use illusion magic.  
-# Illusion Spells  
+Illusion magic is the use of [manon](../03.01%20Magic/01%20Thaumic%20Fundamentals/01.01%20Mana.md) that targets the [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) by altering how it receives, filters, or interprets input from the [vessel](../../02%20The%20Principles%20of%20Beings/01%20Beings.md). Illusion magic affects all beings with a mind, regardless of whether their cognition is biological, artificial, or [armana](../03.01%20Magic/01%20Thaumic%20Fundamentals/01.04%20Armana.md)-based. An incredible amount of control is needed to effectively use illusion magic.  
+  
+---  
+# Illusion Techniques  
 - ## Light Magic  
-	Light magic does not alter the mind but instead creates light projections in the real world to trick the eyes of [beings](../../02%20The%20Principles%20of%20Beings/01%20Beings.md).  
+	Light magic does not alter the mind but instead creates light projections, using [phana](phana.md), in the real world to trick the optical organs of [beings](../../02%20The%20Principles%20of%20Beings/01%20Beings.md).  
 - ## Somatic Illusion  
 	An illusion spell that alters input from bodily sensations including touch, pain, temperature, pressure, balance, and bodily position.  
 - ## Sensory Illusion  
