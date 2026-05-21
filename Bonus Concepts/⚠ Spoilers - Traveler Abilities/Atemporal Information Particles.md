@@ -4,10 +4,10 @@ share: true
 User: The Temporal Traveler  
   
 Description:  
-The emission of atemporal information particles (AIPs) outside the user’s eyes. AIPs are particles that ignore the laws of time, capable of movement even in its absence. The emission can be turned off by the user closing their eyes  
+The emission of atemporal information particles (AIPs) outside the user’s eyes. AIPs are particles that ignore the laws of time, capable of movement even in its absence. The emission can be turned off by the user closing their eyes.  
   
 Mechanism:  
-AICs are passively emit from the space surrounding the user’s eyes and propagate outward. Note that the space between emitted AIPs and the user’s eyes is small.  
+AIPs are passively emit from the space surrounding the user’s eyes and propagate outward. Note that the space between emitted AIPs and the user’s eyes is small.  
   
 AIPs do not transfer energy or exert force on matter. However, they interact to sudden structural discontinuities—such as edges, fingertips, dust, and fibers—resulting in informational scattering perceived as white highlights.  
   
