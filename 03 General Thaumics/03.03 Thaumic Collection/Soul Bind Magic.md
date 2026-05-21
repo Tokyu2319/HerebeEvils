@@ -13,7 +13,7 @@ Soul bind magic is a spell where a [soul](../../02%20The%20Principles%20of%20Bei
   
 If you were to put someone into a simple object, their mind will persist but won’t process [experience](../../02%20The%20Principles%20of%20Beings/02%20Experience.md) because of the lack of senses. If, however, they were put inside an empty vessel with an equal level of cognitive function, then they’ll have complete awareness inside that vessel.  
   
-If the vessel **is empty** and has a lower cognitive function than the subject, the subject will undergo regression and you may interpret that as you like. For the subject’s [memories](../../02%20The%20Principles%20of%20Beings/03%20Memory.md), the memories inside the mind will attempt to fill the empty vessel, but like hardware trying to store a file larger than its capacity, the memories undergo compression. The [identity](../../04%20Defining%20The%20Laws%20of%20Reality%20%F0%9F%8E%B6/03%20Identity.md) of the subject, however, is completely present.  
+If the vessel **is empty** and has a lower cognitive function than the subject, the subject will undergo regression and you may interpret that as you like. For the subject’s [memories](../../02%20The%20Principles%20of%20Beings/03%20Memory.md), the memories inside the mind will attempt to fill the empty vessel, but like hardware trying to store a file larger than its capacity, the memories undergo compression. The [identity](../../04%20Perceptions%20on%20Reality/03%20Identity.md) of the subject, however, is completely present.  
   
 If the mind **is empty** and has a higher cognitive function than the subject, the subject will simply have more to do. It is comparable to running the same software on far more powerful hardware..  
   
