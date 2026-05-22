@@ -8,11 +8,11 @@ aliases:
 ---
 Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural and artificial life.  
   
-Every being consists of three Aspects which are named The [Vessel](./01.01%20Vessel.md), The [Mind](./01.02%20Mind.md),and The [Soul](./01.03%20Soul.md). These Aspects are bound together by [Mana](../03%20General%20Thaumics/03.01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01.01%20Mana.md)  
+Every being consists of three Aspects which are named The [Vessel](0101-vessel.md), The [Mind](0102-mind.md),and The [Soul](0103-soul.md). These Aspects are bound together by [Mana](03-general-thaumics0301-thaumaturgy01-thaumic-fundamentals0101-mana.md)  
   
-A being emerges based on how [complex](./01.04%20Complexity.md) its Vessel is.  
+A being emerges based on how [complex](0104-complexity.md) its Vessel is.  
   
-Interacting for a being means to capture [Experiences](./02%20Experience.md) in order to **grow** as a being.  
+Interacting for a being means to capture [Experiences](02-experience.md) in order to **grow** as a being.  
   
 ---  
 # Examples of Beings From Various Media  
