@@ -11,7 +11,7 @@ aliases:
   - soul value
   - SV
 ---
-Experiences are interpreted phenomena captured through the interaction between the [vessel](./01.01%20Vessel.md) and the universe, processed by the [mind](./01.02%20Mind.md), and accumulated within the [soul](./01.03%20Soul.md).  
+Experiences are interpreted phenomena captured through the interaction between the [vessel](0101-vessel.md) and the universe, processed by the [mind](0102-mind.md), and accumulated within the [soul](0103-soul.md).  
   
 Not all events become meaningful experiences. The value of an experience depends upon:  
   
@@ -27,7 +27,7 @@ Because interpretation itself may change over time, a previously understood phen
   
 # Soul Growth  
   
-The growth of a [soul](./01.03%20Soul.md) is neither linear nor uniform. Early existence often produces rapid increases in Soul Value due to the overwhelming amount of novel experience encountered during the development of awareness and cognition.  
+The growth of a [soul](0103-soul.md) is neither linear nor uniform. Early existence often produces rapid increases in Soul Value due to the overwhelming amount of novel experience encountered during the development of awareness and cognition.  
   
 As familiarity with the world increases, the rate of soul growth gradually diminishes. Many beings eventually enter periods of experiential stagnation in which few genuinely novel experiences remain accessible within their environment.  
   
@@ -43,7 +43,7 @@ Because of this, two beings of similar intelligence or age may possess vastly di
   
 # Experiential Throughput  
   
-The rate at which a [soul](./01.03%20Soul.md) accumulates Soul Value is determined primarily by the complexity and capability of the [cognitive framework](./01.01%20Vessel.md) supporting the [mind](./01.02%20Mind.md).  
+The rate at which a [soul](0103-soul.md) accumulates Soul Value is determined primarily by the complexity and capability of the [cognitive framework](0101-vessel.md) supporting the [mind](0102-mind.md).  
   
 More sophisticated cognitive frameworks permit:  
   
@@ -62,7 +62,7 @@ Because of this, many highly intelligent beings eventually encounter experientia
   
 # Comparative Soul Values  
   
-Soul Value classifications are theoretical approximations used to describe the experiential maturity of a [soul](./01.03%20Soul.md).  
+Soul Value classifications are theoretical approximations used to describe the experiential maturity of a [soul](0103-soul.md).  
   
 Though exact measurement remains impossible, thaumaturgists commonly categorize souls into broad ranges for comparative study.    
   
