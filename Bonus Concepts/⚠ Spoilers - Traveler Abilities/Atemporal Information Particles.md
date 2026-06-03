@@ -3,10 +3,10 @@ share: true
 ---
 User: The Temporal Traveler  
   
-Description:  
+Ability Description:  
 The emission of atemporal information particles (AIPs) outside the user’s eyes. AIPs are particles that ignore the laws of time, capable of movement even in its absence. The emission can be turned off by the user closing their eyes.  
   
-Mechanism:  
+Ability Mechanism:  
 AIPs are passively emit from the space surrounding the user’s eyes and propagate outward. Note that the space between emitted AIPs and the user’s eyes is small.  
   
 AIPs do not transfer energy or exert force on matter. However, they interact to sudden structural discontinuities—such as edges, fingertips, dust, and fibers—resulting in informational scattering perceived as white highlights.  
@@ -22,4 +22,3 @@ Limitations:
 The user does not perceive light directly; all vision is mediated through AIP fields. As a result, they are effectively blind, perceiving only edges, silhouettes, and fine details.  
   
 Notability:  
-What the user sees is what I can describe as negative space where the world they see is **pitch black** with the only details they’re seeing are white highlights.
