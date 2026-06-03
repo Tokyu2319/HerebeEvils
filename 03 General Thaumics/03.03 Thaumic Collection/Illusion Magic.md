@@ -11,8 +11,6 @@ Illusion magic is the use of [manon](../03.01%20Thaumaturgy/01%20Thaumic%20Funda
   
 ---  
 # Illusion Techniques  
-- ## Light Magic  
-	Light magic does not alter the mind but instead creates light projections, using [phana](phana.md), in the real world to trick the optical organs of [beings](../../02%20The%20Principles%20of%20Beings/01%20Beings.md).  
 - ## Somatic Illusion  
 	An illusion spell that alters input from bodily sensations including touch, pain, temperature, pressure, balance, and bodily position.  
 - ## Sensory Illusion  
