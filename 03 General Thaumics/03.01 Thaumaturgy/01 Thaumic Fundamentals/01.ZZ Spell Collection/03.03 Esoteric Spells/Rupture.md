@@ -11,7 +11,7 @@ Manon particles are projected from the user’s [vessel](../../../../../02%20The
   
 Rupture relies heavily on principles derived from [Advanced Telekinesis](./Advanced%20Telekinesis.md), particularly micro-scale force precision and internal force placement.  
   
-Knowledge requirements:  
+Knowledge Requirements:  
 - Understanding of [mana](../../01.01%20Mana.md) conversion to manon  
 - Understanding of manon agency  
 - Awareness of manon’s micro manipulation  
@@ -24,9 +24,9 @@ Use Cases:
 - Bypassing external durability through internal stress concentration  
   
 Limitations:  
-Effective primarily at close or melee range due to instability and disruption of projected manon fields over distance  
-Force output scales with manon density  
-Susceptible to disruption by external manon under another user’s control  
+- Effective primarily at close or melee range due to instability and disruption of projected manon fields over distance  
+- Force output scales with manon density  
+- Susceptible to disruption by external controlled manon fields, particularly when the area of influence is large or sustained over distance  
   
 Notability:  
 A Very Rare Spell, as it depends on specialized knowledge of manon’s versatility and advanced precision control. Unlike more common manipulations, Rupture is not broadly accessible, since most users do not understand that manon can be applied in this manner, and even fewer can execute it reliably at close range.
