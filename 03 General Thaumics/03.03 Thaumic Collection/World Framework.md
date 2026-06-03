@@ -9,9 +9,9 @@ aliases:
   - system engine
 ---
   
-World Frameworks are [enchantments](03%20Enchantments.md) installed to define how a world functions. Their creation is rare, and only a handful of worlds possess them. Every known framework belongs to types that can coexist. The records engine and the systems engine.  
+World Frameworks are [enchantments](../03.01%20Thaumaturgy/02%20Structural%20Thaumics/02.01%20Enchantments.md) installed to define how a world functions. Their creation is rare, and only a handful of worlds possess them. Every known framework belongs to two types that can coexist. The records engine and the systems engine.  
 # Records Engine  
-Records engines are powerful enchantments that record a world’s history and are capable of altering it. Most of these devices are implemented with [soul bind magic](./Soul%20Bind%20Magic.md) so that no being is able to leave in the [afterlife](../../02%20The%20Principles%20of%20Beings/04%20Transience.md).  
+Records engines are powerful enchantments that record a world’s history and are capable of altering it. Most of these devices are implemented with [soul bind magic](./Soul%20Bind%20Magic*.md) so that no being is able to leave in the [afterlife](../../02%20The%20Principles%20of%20Beings/04%20Transience.md).  
   
 Record devices can take many forms but they’re often made to be large to accommodate [mana](../03.01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01.01%20Mana.md) storage.  
   
