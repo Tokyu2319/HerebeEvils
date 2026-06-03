@@ -17,7 +17,7 @@ Use Cases:
 - Nutrient satiation (soluble)  
   
 Limitations:  
-Composition is limited without additional information  
+- Composition is limited without additional information  
   
 Notability:  
 Serves as a foundational example of mana-to-matter conversion, demonstrating that stable materialization is significantly easier in non-rigid forms.

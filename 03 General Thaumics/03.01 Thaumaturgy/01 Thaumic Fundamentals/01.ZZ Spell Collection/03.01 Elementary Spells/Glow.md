@@ -16,7 +16,7 @@ Use Cases:
 - Identifying the presence of [transient](../../../../../02%20The%20Principles%20of%20Beings/04%20Transience.md) souls  
   
 Limitations:  
-Requires [manon](../../01.01%20Mana.md) for spectrum manipulation  
+- Requires [manon](../../01.01%20Mana.md) for spectrum manipulation  
   
 Notability:  
 Though simple in application, this spell demonstrates the separation between phana emission and manon-based control.

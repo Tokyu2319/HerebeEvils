@@ -19,7 +19,7 @@ Use Cases:
 - Nutrient satiation (insoluble or structured)  
   
 Limitations:  
-Requires greater precision and structural knowledge; instability or collapse may occur if internal arrangement is incorrect.  
+- Requires greater precision and structural knowledge; instability or collapse may occur if internal arrangement is incorrect.  
   
 Notability:  
 Demonstrates the increased complexity of rigid matter creation, requiring deliberate structural organization and specialized techniques to achieve stability.

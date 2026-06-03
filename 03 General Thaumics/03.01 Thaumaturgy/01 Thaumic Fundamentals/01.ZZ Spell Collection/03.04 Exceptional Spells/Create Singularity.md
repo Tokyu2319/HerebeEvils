@@ -15,7 +15,7 @@ Once formed, the singularity exerts gravitational attraction on surrounding matt
   
 Likely produced black holes will be small in size, about the size of a coin, and will eventually evaporate.  
   
-Knowledge requirements:  
+Knowledge Requirements:  
 - Complete understanding of [mana](../../01.01%20Mana.md) conversion and materialization  
 - Mastery of [manon](../../01.01%20Mana.md) stabilization  
 - Advanced understanding of mass-energy equivalence  
@@ -28,10 +28,10 @@ Use Cases:
 - Theoretical manipulation of spacetime  
   
 Limitations:    
-Requires an impossible quantity of mana under ordinary conditions    
-Death upon successful casting is effectively guaranteed    
-Materialization instability increases exponentially with mass density    
-Susceptible to premature collapse, uncontrolled detonation, or failed formation if stabilization is imperfect  
+- Requires an impossible quantity of mana under ordinary conditions    
+- Death upon successful casting is effectively guaranteed    
+- Materialization instability increases exponentially with mass density    
+- Susceptible to premature collapse, uncontrolled detonation, or failed formation if stabilization is imperfect  
   
 Notability:    
 A theoretical and forbidden spell regarded as functionally impossible by most scholars. Create Singularity represents the extreme endpoint of Matter Materialization, where the conversion of mana into matter surpasses stable physical limits and results in gravitational collapse. Even among Exceptional Spells, successful execution is considered beyond anyone’s realistic capability.  
