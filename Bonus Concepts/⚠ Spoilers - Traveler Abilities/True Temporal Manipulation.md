@@ -26,7 +26,7 @@ Mechanism:
 	  
 	For example, rewinding a planet’s history would also rewind their placement in the universe, leaving the planet without a star if the user was only targeting the planet.  
 	  
-	The user can outright ignore the spatial coordinates of a target to restore the temporal state of a it, but this would come at massive cost of Harbored Pain.  
+	The user can outright ignore the spatial coordinates of a target to restore the temporal state of it, but this would come at massive cost of Harbored Pain.  
 	  
 	Time travel is achievable with rewind by targeting the region the user resides in.  
   
@@ -37,6 +37,7 @@ Mechanism:
   
 Limitations:  
 - Harbored Pain as a resource  
+- Desensitization limiting HP gain  
 - Time stop is limited by lung capacity  
 - Rewind is constrained due to its dependency on spatial-coordinates  
 - Acceleration is inherently less versatile than rewind, as it cannot reconstruct prior states and is limited to advancing existing processes, often yielding unpredictable or undesirable outcomes.  
