@@ -7,10 +7,10 @@ Please note that some entries will periodically be updated so be sure to reread 
 
 Certain folders use East Asian characters as reading markers.
 
-| Symbol | Meaning | Usage |
-|---------|---------|---------|
-| 話 | Story | The folder contains story material and may include spoilers. |
-| 終 | End | The folder is intended to be read after most other entries. |
-| 余 | Extra | Supplemental or optional material. |
+| Symbol | Reading | Description |
+|---------|---------|-------------|
+| 話 | *Hanashi* (Japanese), *Huà* (Chinese) | Story content. May contain spoilers. |
+| 終 | *Shū* (Japanese), *Zhōng* (Chinese) | Read this folder last. |
+| 余 | *Yo* (Japanese), *Yú* (Chinese) | Supplemental or optional material. |
 
 ---
