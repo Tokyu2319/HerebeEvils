@@ -8,7 +8,7 @@ aliases:
   - Portal magic
   - portal magic
 ---
-The deformation and attachment on the fabric of spacetime with the usage of [manon](../01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/01%20Mana.md) with [enchantments](../01%20Thaumaturgy/02.02%20Structural%20Thaumics/01%20Enchantments.md) for reliable use.  
+The deformation and attachment on the fabric of spacetime with the usage of [manon](../01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01%20Mana.md) with [enchantments](../01%20Thaumaturgy/02%20Structural%20Thaumics/01%20Enchantments.md) for reliable use.  
   
 # How Portals Are Formed  
 Portals are formed when the fabric of spacetime is deformed in such a way where two points are attached. To visualize a portal:  
