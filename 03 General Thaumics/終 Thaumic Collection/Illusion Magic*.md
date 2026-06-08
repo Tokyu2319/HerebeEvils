@@ -7,7 +7,7 @@ aliases:
   - illusian magic
 ---
   
-Illusion magic is the use of [manon](../01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/01%20Mana.md) that targets the [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) by altering how it receives, filters, or interprets input from the [vessel](../../02%20The%20Principles%20of%20Beings/01%20Beings.md). Illusion magic affects all beings with a mind, regardless of whether their cognition is biological, artificial, or [armana](../01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/04%20Armana.md)-based. An incredible amount of control is needed to effectively use illusion magic.  
+Illusion magic is the use of [manon](../01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01%20Mana.md) that targets the [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) by altering how it receives, filters, or interprets input from the [vessel](../../02%20The%20Principles%20of%20Beings/01%20Beings.md). Illusion magic affects all beings with a mind, regardless of whether their cognition is biological, artificial, or [armana](../01%20Thaumaturgy/01%20Thaumic%20Fundamentals/04%20Armana.md)-based. An incredible amount of control is needed to effectively use illusion magic.  
   
 ---  
 # Illusion Techniques  
