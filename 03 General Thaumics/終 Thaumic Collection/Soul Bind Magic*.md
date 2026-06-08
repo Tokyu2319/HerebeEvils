@@ -9,7 +9,7 @@ aliases:
   - Soul bind magic
   - soul bind magic
 ---
-Soul bind magic is a spell where a [soul](../../02%20The%20Principles%20of%20Beings/01%20Beings.md), whether they still have their [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) or not, is bound to an object or a vessel using [manon](../01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/01%20Mana.md) and in the case where those two mediums are unavailable [armana](../01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/01%20Mana.md) is used.  
+Soul bind magic is a spell where a [soul](../../02%20The%20Principles%20of%20Beings/01%20Beings.md), whether they still have their [mind](../../02%20The%20Principles%20of%20Beings/01%20Beings.md) or not, is bound to an object or a vessel using [manon](../01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01%20Mana.md) and in the case where those two mediums are unavailable [armana](../01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01%20Mana.md) is used.  
   
 If you were to put someone into a simple object, their mind will persist but won’t process [experience](../../02%20The%20Principles%20of%20Beings/02%20Experience.md) because of the lack of senses. If, however, they were put inside an empty vessel with an equal level of cognitive function, then they’ll have complete awareness inside that vessel.  
   
