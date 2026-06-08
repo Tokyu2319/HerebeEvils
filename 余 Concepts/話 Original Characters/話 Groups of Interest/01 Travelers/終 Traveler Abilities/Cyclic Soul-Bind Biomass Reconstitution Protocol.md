@@ -4,7 +4,7 @@ share: true
 User: The Healing Traveler [^1]  
   
 Traveler Description:  
-The Healing Traveler (THT) is an [enchanted](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/02.02%20Structural%20Thaumics/01%20Enchantments.md) endoparasitic symbiote that infects and controls sapient hosts through a defined sequence of procedures. It spreads primarily through water and insect vectors.  
+The Healing Traveler (THT) is an [enchanted](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/02%20Structural%20Thaumics/01%20Enchantments.md) endoparasitic symbiote that infects and controls sapient hosts through a defined sequence of procedures. It spreads primarily through water and insect vectors.  
   
 Once inside a suitable host, THT remains dormant until the host undergoes immune system failure or a comparable terminal condition. At that point, it initiates the CSBR Protocol.  
   
@@ -21,7 +21,7 @@ Ability Mechanism:
 	Type 1s are not able to provide THT the mana to create biomass and are susceptible to decay and neural deterioration.  
 	Type 2s hosts decay at a much slower rate and are not susceptible to neural damage allowing THT the ability to control its host more efficiently.   
 	  
-2. [Mana](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/01%20Mana.md) Exploitation and Biomass [Creation](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/05%20Materialization.md)  
+2. [Mana](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/01%20Thaumic%20Fundamentals/01%20Mana.md) Exploitation and Biomass [Creation](../../../../../03%20General%20Thaumics/01%20Thaumaturgy/01%20Thaumic%20Fundamentals/05%20Materialization.md)  
 	With the host’s soul bound to a now-deceased body, THT begins converting available mana into biological material.  
 	  
 	This generated biomass is used to repair structural damage and compensate for malnutrition. Reconstruction is automatic and continuous while sufficient mana is available.  

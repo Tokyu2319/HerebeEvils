@@ -11,4 +11,4 @@ The end of the universe happens when the universe is unable to sustain anymore l
   
 When the eventual time comes, the last soul to survive this event will become what I define as a god. Having lived the lives of every being, this god is eternally content with their godhood and they’ll eventually make the choice of recreating the universe using [materialization](https://en.wikipedia.org/wiki/Big_Bang)[^1]. **They’ll also have the choice to use resurrection on themselves into destruction or regression**.  
   
-[^1]: Materialization links to a wikipedia page about the big bang theory instead of [05 Materialization](../03%20General%20Thaumics/01%20Thaumaturgy/01.01%20Thaumic%20Fundamentals/05%20Materialization.md)
+[^1]: Materialization links to a wikipedia page about the big bang theory instead of [05 Materialization](../03%20General%20Thaumics/01%20Thaumaturgy/01%20Thaumic%20Fundamentals/05%20Materialization.md)
