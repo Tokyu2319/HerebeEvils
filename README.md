@@ -5,7 +5,7 @@ Please note that some entries will periodically be updated so be sure to reread 
 
 ## Folder Symbols
 
-Certain folders use East Asian characters as reading markers.
+Certain folders use Japanese/Chinese characters as reading markers.
 
 | Symbol | Meaning | Reading | Description |
 |---------|---------|---------|-------------|
